@@ -1,0 +1,52 @@
+/*HELPER CLASSES*/
+.center-align{
+  text-align: center !important;
+}
+
+.left-align{
+  text-align: left !important;
+}
+
+.right-align{
+  text-align: right !important;
+}
+
+.pointer{
+  cursor: pointer !important;
+}
+
+.main-container{
+  min-height: 100vh;
+  padding-top: 5em;
+}
+
+.main-title{
+  margin: 5em auto !important;
+  text-align: center;
+}
+
+.total-height {
+  min-height: 90vh !important;
+}
+
+.inline-block{
+  display: inline-block !important;
+}
+
+.sidebar-button {
+  position: absolute;
+  bottom: 5px;
+  right: 5px;
+  z-index: 1000;
+}
+.buttonMobile {
+  position: fixed;
+  top: 8px;
+  left: 8px;
+  z-index: 150;
+}
+
+/* HACK SEMANTIC */
+.selection.dropdown .item{
+  z-index: 2000 !important;
+}

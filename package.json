@@ -1,0 +1,25 @@
+{
+  "name": "my_boilerplate",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "1-liners": "^0.4.0",
+    "babel-runtime": "^6.20.0",
+    "bcrypt": "^1.0.3",
+    "meteor-node-stubs": "~0.2.4",
+    "moment": "^2.20.1",
+    "postcss": "^6.0.11",
+    "react": "^15.6.1",
+    "react-dom": "^15.6.1",
+    "react-hammerjs": "^1.0.1",
+    "react-helmet": "^5.2.0",
+    "react-loadable": "^5.3.1",
+    "react-motion": "^0.5.2",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "semantic-ui-react": "^0.73.1",
+    "styled-components": "^2.1.2"
+  }
+}
